@@ -18,6 +18,4 @@ async def start_tournament():
     await time_2
     await time_3
 
-
-
 asyncio.run(start_tournament())
